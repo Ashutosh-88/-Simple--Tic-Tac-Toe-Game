@@ -48,8 +48,6 @@ To reset or restart the game, click the "Restart" button located at the bottom o
 
 ## Authors
 
-Contributors names and contact info
-
 - [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh-tiwari-70b504190/)
 
 ## Version History

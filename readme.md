@@ -63,6 +63,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-
 - [@BroCodez](https://www.youtube.com/@BroCodez)

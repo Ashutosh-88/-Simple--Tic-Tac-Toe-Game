@@ -20,7 +20,7 @@ This is a classic Tic Tac Toe game built with HTML, CSS, and JavaScript. Players
 1. Clone or download the repository to your local machine:
 
 ```sh
-git clone [https://github.com/Ashutosh-88/-Simple--Tic-Tac-Toe-Game](https://github.com/Ashutosh-88/-Simple--Tic-Tac-Toe-Game)
+git clone https://github.com/Ashutosh-88/-Simple--Tic-Tac-Toe-Game
 ```
 
 2. Navigate to the project folder in your terminal:

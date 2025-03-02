@@ -1,6 +1,7 @@
 # Tic Tac Toe Game
 
 ![Preview_TicTacToe](./images/previewTicTacToe.png)
+
 Simple Tic Tac Toe Game.
 
 ## Description
